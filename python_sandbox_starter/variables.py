@@ -13,3 +13,13 @@ VARIABLE RULES:
   - Must start with a letter or an underscore
   - Can have numbers but can not start with one
 """
+
+x = 1           # int
+y = 2.5         # float
+name = 'Tomas'  # str
+is_cool = True  # bool
+
+print('Hello')
+
+
+print(type(str(x)), x)
